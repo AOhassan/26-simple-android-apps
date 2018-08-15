@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
             new Places("Great Barrier Reef and Whitehaven beach, Australia",R.drawable.fifth,
                     "Diverse aquatic species include leatherback turtles and clown fish, the Great Barrier Reef needs no introduction. The world's largest coral reef system composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometres over an area of approximately 344,400 square kilometres (133,000 sq mi), the Great Barrier Reef can be seen from outer space and is the world's biggest single structure made by living organisms."),
             new Places("Cliffs of Moher, Ireland",R.drawable.sixth,
-                    "Majestic sandstone creates the appearance of fire at Antelope Canyon."),
+                    "These soaring cliffs in County Clare are one of Ireland's most famous tourist attractions. The maximum height of Cliffs is 214 m. This natural sanctuary is home to some 30,000 birds from 20 different species."),
             new Places("Algar de Benagil, Portugal",R.drawable.seventh,
                     "This natural grotto is a real gem on the Algarve coast, one of the most impressive sea caves in Europe. The amazing cave are only acessible by the sea, and, as you enter, the sun illuminates the water, creating amazing effects."),
             new Places("Plitvice Lakes National Park, Croatia",R.drawable.eighth,
